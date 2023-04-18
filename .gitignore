@@ -21,3 +21,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+TelemetryApp/.expo/
+
+TelemetryApp/node_modules/.bin/
+
+TelemetryApp/node_modules/yocto-queue/
+
+TelemetryApp/package-lock.json
+
+TelemetryApp/node_modules/\@0no-co/graphql.web/
+
+TelemetryApp/node_modules/
